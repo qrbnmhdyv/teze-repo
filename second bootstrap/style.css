@@ -1,0 +1,40 @@
+body{
+	
+}
+.cover{
+	background: url(image/cover.jpg) ;
+	height: 770px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+}
+
+#navbarr{
+	background: rgba(0,0,0, .3);
+}
+#prll{
+	font-size: 25px;
+	color: white;
+		padding: 17px 0px 0px 150px;
+}
+.sag{
+	padding: 10px;
+	width: 50%;
+	float: right;
+
+}
+.sag ul li a {
+	color: white;
+}
+.sag ul li a b:hover{
+	
+	border-bottom: 2px solid aqua;
+}
+.sag ul li a:hover{
+	background: none;
+	
+}
+.active{
+	border-bottom: 2px solid aqua;
+}
+#002
